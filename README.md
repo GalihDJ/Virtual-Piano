@@ -37,5 +37,5 @@ Untuk keluar dari program.
  
 
 ## Flow Chart
- 
+![FC](/images/FlowChart.PNG)
 
