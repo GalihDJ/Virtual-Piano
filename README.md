@@ -23,7 +23,6 @@ Untuk menaikkan dan menurunkan not piano.
 Untuk merekam not yang dimasukkan oleh user yang dapat dimainkan secara sekuensial.
 
 ![Record1](/images/Record.PNG)
-![Record2](/images/Record 2.PNG)
 
 ### Help
 Menu yang berisi panduan untuk user.
