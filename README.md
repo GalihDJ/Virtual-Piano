@@ -12,17 +12,28 @@ Tampilan menu awal program.
 ### Start
 Untuk memainkan piano.
 
+![Start](/images/Play1.PNG)
+
 ### Transpose
 Untuk menaikkan dan menurunkan not piano.
 
+![Transpose](/images/Transpose.PNG)
+
 ### Record
 Untuk merekam not yang dimasukkan oleh user yang dapat dimainkan secara sekuensial.
- 
+
+![Record1](/images/Record.PNG)
+![Record2](/images/Record 2.PNG)
+
 ### Help
 Menu yang berisi panduan untuk user.
+
+![Help](/images/Help.PNG)
  
 ### Exit
 Untuk keluar dari program.
+
+![Exit](/images/Exit.PNG)
  
 
 ## Flow Chart
