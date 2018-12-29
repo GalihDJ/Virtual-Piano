@@ -6,6 +6,7 @@ Virtual Piano merupakan program berbasis bahasa pemprograman C yang dapat diguna
 ## Tampilan Program
 ### Menu Awal
 Tampilan menu awal program.
+
 ![Menu](/images/Menu.PNG)
  
 ### Start
