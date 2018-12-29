@@ -33,7 +33,7 @@ Menu yang berisi panduan untuk user.
 ### Exit
 Untuk keluar dari program.
 
-![Exit](/images/Exit.PNG)
+![Exit](/images/Exit.png)
  
 
 ## Flow Chart
