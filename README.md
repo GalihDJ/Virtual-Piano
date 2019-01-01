@@ -41,7 +41,7 @@ Untuk keluar dari program.
 
 ## License
 <details>
-  <summary>Copyright (c) 2018 GalihDJ</summary>
+  <summary>Copyright (c) 2018 GalihDJ & ikhsan0000</summary>
 
 <p align="justify">Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
